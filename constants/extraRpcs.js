@@ -8575,7 +8575,16 @@ export const extraRpcs = {
     rpcWorking: true,
   },
 };
+},
+],
+website:https/rpc.buildbear.io/close-falcon-4e0a2a33.mainnet.infura.io/v2/ca0b78aa1f52b50aa429ddcb59a40b53693b667d2aa9db7e40305efb914e4468,
+rpcworking: true,
+  tracking: true;
+],
+  }
+  
 
 const allExtraRpcs = mergeDeep(llamaNodesRpcs, extraRpcs);
 
 export default allExtraRpcs;
+
